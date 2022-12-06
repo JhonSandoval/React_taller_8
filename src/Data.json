@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "title": "Peluqueando Pequeños Animales",
+        "content": "Los animales son pesados y de acuerdo a su tamaño se cobra" ,
+        "precio": "$10" ,
+        "img": "img" 
+       
+    },
+    {
+
+        "id": 2,    
+        "title": "Peluqueando Medianos Animales",
+        "content": "los animales",
+        "precio": "$20" ,
+        "img": "img" 
+
+    },
+    
+    {
+        "id": 3,
+        "title": "Peluqueando Grandes Animales",
+        "content": "Acá va el contenido..",
+        "precio": "$30" ,
+        "img": "img" 
+       
+
+    
+    },
+    {
+        "id": 4,
+        "title": "Otras cosas",
+        "content": "Acá va el contenido.." ,
+        "precio": "$30" ,
+        "img": "img" 
+       
+       
+
+        
+    }
+
+
+]
